@@ -1,0 +1,19 @@
+{
+  "name": "vfs-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "Carlos Araya (https://publishing-project.rivendellweb.net)",
+  "license": "MIT",
+  "dependencies": {
+    "@platformatic/vfs": "^0.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
